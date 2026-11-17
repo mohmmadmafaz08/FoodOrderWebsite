@@ -1,0 +1,25 @@
+
+body {
+    text-align: center;
+    background: #dedede;
+    font-family: Arial;
+}
+
+h1 {
+    color: orange;
+}
+
+.food {
+    background: white;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+button {
+    background: orange;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
